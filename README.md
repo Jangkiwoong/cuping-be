@@ -62,13 +62,6 @@
 <br/>
 <br/>
 
-> **ERD**
-#
-![erd](https://github.com/Jangkiwoong/Node.js.login/assets/110136582/a1d34fbb-689a-4519-83a7-05f8d18ad63b)
-<br/>
-<br/>
-<br/>
-
 > **트러블 슈팅**
 #
 <details>
@@ -109,10 +102,19 @@
 |해결|marvin 라이브러리를 사용하여 2MB에서 976KB 로 이미지 용량 축소|
 </div>
 </details>
+<br/>
+<br/>
+<br/>
 
-![화면_캡처_2023-06-26_220122-removebg-preview](https://github.com/Jangkiwoong/Node.js.login/assets/110136582/4ed362dd-6363-4dd9-9aed-5772e145fbb7)
+> **ERD**
+#
+![erd](https://github.com/Jangkiwoong/Node.js.login/assets/110136582/a1d34fbb-689a-4519-83a7-05f8d18ad63b)
+<br/>
+<br/>
+<br/>
 
 > **시기**
 > 
 - 프로젝트 진행 기간
     - 2023.5 ~ 2023.6 (6주)
+    - ![화면_캡처_2023-06-26_220122-removebg-preview](https://github.com/Jangkiwoong/Node.js.login/assets/110136582/4ed362dd-6363-4dd9-9aed-5772e145fbb7)
